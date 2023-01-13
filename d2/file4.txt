@@ -1,2 +1,3 @@
 trying to edit multiple files in once commit.
 This is file.txt in d2 dir
+trying to rename and check the log command
