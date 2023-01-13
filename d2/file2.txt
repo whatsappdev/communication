@@ -1,0 +1,2 @@
+trying to edit multiple files in once commit.
+This is file.txt in d2 dir
